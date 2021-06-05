@@ -14,15 +14,13 @@
 <!DOCTYPE html>
 <html lang="ja">
 	<head>
-		<title>
-			<?php
-				if (isset($title) == "") {
-					echo "学情チャン 公式ウェブサイト";
-				} else {
-					echo "".$title." - 学情チャン 公式ウェブサイト";
-				}
-			?>
-		</title>
+		<title><?php
+		if (isset($title) == "") {
+			echo "学情チャン 公式ウェブサイト";
+		} else {
+			echo "".$title." - 学情チャン 公式ウェブサイト";
+		}
+		?></title>
 		<meta charset="utf-8">
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
@@ -33,7 +31,13 @@
 		<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1">
 		<meta name="description" content="学情チャンは、全国の大学が抱えてる学生さん向けポータルサイトをイメージして生まれたキャラクターだよ!">
 		<meta name="twitter:card" content="summary">
-		<meta property="og:title" content="学情チャン">
+		<meta property="og:title" content="<?php
+		if (isset($title) == "") {
+			echo "学情チャン 公式ウェブサイト";
+		} else {
+			echo "".$title." - 学情チャン 公式ウェブサイト";
+		}
+		?>">
 		<meta property="og:description" content="学情チャンは、全国の大学が抱えてる学生さん向けポータルサイトをイメージして生まれたキャラクターだよ!">
 		<meta property="og:image" content="https://gakujochan.com/img/cards.png">
 		<script type="text/javascript" src="js/jquery.js"></script>
@@ -48,7 +52,7 @@
 			<div class="navbar-right">
 				<ul>
 					<a href="index.php"><li>ホーム</li></a>
-					<a href="index.php?p=reference"><li>設定資料</li></a>
+					<a href="index.php?p=reference"><li>資料集</li></a>
 					<a href="index.php?p=rules"><li>学情チャンとのお約束</li></a>
 					<a href="index.php?p=contest"><li>コンテスト</li></a>
 				</ul>
