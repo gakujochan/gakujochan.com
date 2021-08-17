@@ -62,8 +62,6 @@
 			<div class="slider">
 				<div><img src="img/slideshow/slide_top.png"></div>
 				<a href="index.php?p=rules"><div><img src="img/slideshow/promises.png"></div></a>
-				<a href="index.php?p=contest#illustcon_1"><div><img src="img/slideshow/illustcon_1_result.png"></div></a>
-				<a href="index.php?p=contest#r18con_1"><div><img src="img/slideshow/r18con_1.png"></div></a>
 				<a href="index.php?p=contest#illustcon_2"><div><img src="img/slideshow/illustcon_2.png"></div></a>
 			</div>
 		</div>
