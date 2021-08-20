@@ -52,7 +52,7 @@
 			<div class="navbar-right">
 				<ul>
 					<a href="index.php"><li>ホーム</li></a>
-					<a href="index.php?p=reference"><li>資料集</li></a>
+					<a href="index.php?p=reference"><li>リンク・資料集</li></a>
 					<a href="index.php?p=rules"><li>学情チャンとのお約束</li></a>
 					<a href="index.php?p=contest"><li>コンテスト</li></a>
 				</ul>
@@ -63,6 +63,7 @@
 				<div><img src="img/slideshow/slide_top.png"></div>
 				<a href="index.php?p=rules"><div><img src="img/slideshow/promises.png"></div></a>
 				<a href="index.php?p=contest#illustcon_2"><div><img src="img/slideshow/illustcon_2.png"></div></a>
+				<a href="index.php?p=contest#writecon_1"><div><img src="img\slideshow\write_1.png"></div></a>
 			</div>
 		</div>
 		<div class="wrapper">
