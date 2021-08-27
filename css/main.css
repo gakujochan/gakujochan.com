@@ -106,7 +106,7 @@ body {
 }
 
 .wrapper-columns-right {
-	width: 620px;
+	width: 610px;
 	float: right;
 }
 
@@ -125,6 +125,13 @@ body {
 
 .footer a, .footer p {
 	color: rgb(255, 255, 255);
+}
+
+
+.social {
+	padding-bottom: 2px;
+	padding-right: 5px;
+	vertical-align: middle;
 }
 
 
@@ -176,6 +183,10 @@ body {
 		margin-top: -20px;
 		padding: 0 20px;
 		box-sizing: border-box;
+	}
+
+	.wrapper-columns-right {
+		margin-bottom: 50px;
 	}
 
 	.footer {
