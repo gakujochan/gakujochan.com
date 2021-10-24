@@ -55,6 +55,7 @@
 					<a href="index.php?p=reference"><li>資料集</li></a>
 					<a href="index.php?p=rules"><li>学情チャンとのお約束</li></a>
 					<a href="index.php?p=contest"><li>コンテスト</li></a>
+					
 				</ul>
 			</div>
 		</div>
@@ -62,8 +63,7 @@
 			<div class="slider">
 				<div><img src="img/slideshow/slide_top.png"></div>
 				<a href="index.php?p=rules"><div><img src="img/slideshow/promises.png"></div></a>
-				<a href="index.php?p=contest#illustcon_2"><div><img src="img/slideshow/illustcon_2.png"></div></a>
-				<a href="index.php?p=contest#writecon_1"><div><img src="img/slideshow/write_1.png"></div></a>
+				<a href="https://tawataso.com/gakujoaddon/"><div><img src="img/slideshow/GakujoTextCount.png"></div></a>
 			</div>
 		</div>
 		<div class="wrapper">
@@ -78,7 +78,8 @@
 					<p>
 						<a href="https://twitter.com/Gakuzyo18Kin" target="blank"><img src="img/tw.png" class="social">R18のTwitterは…///こっち…///</a><br>
 						<a href="https://twitter.com/gakujochan_info" target="blank"><img src="img/tw.png" class="social">学情チャンプロジェクト（運営）</a><br>
-						<a href="https://marshmallow-qa.com/gakuzyo_chan?utm_medium=url_text&utm_source=promotion" target="blank"><img src="img/mqa.png" class="social">学情チャンのマシュマロ</a>
+						<a href="https://marshmallow-qa.com/gakuzyo_chan?utm_medium=url_text&utm_source=promotion" target="blank"><img src="img/mqa.png" class="social">学情チャンのマシュマロ</a><br>
+						<a href="https://www.youtube.com/channel/UCw2JBhwHg-YXycBYx6ZI1bQ" target ="blank">学情チャンのYouTubeチャンネル</a>
 					</p><br>
 					<a href="https://addons.mozilla.org/ja/firefox/addon/%E5%AD%A6%E6%83%85%E3%83%81%E3%83%A3%E3%83%B3%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E/" target="blank">
 						<img src="img/fx.png">
