@@ -79,7 +79,7 @@
 						<a href="https://twitter.com/Gakuzyo18Kin" target="blank"><img src="img/tw.png" class="social">R18のTwitterは…///こっち…///</a><br>
 						<a href="https://twitter.com/gakujochan_info" target="blank"><img src="img/tw.png" class="social">学情チャンプロジェクト（運営）</a><br>
 						<a href="https://marshmallow-qa.com/gakuzyo_chan?utm_medium=url_text&utm_source=promotion" target="blank"><img src="img/mqa.png" class="social">学情チャンのマシュマロ</a><br>
-						<a href="https://www.youtube.com/channel/UCw2JBhwHg-YXycBYx6ZI1bQ" target ="blank">学情チャンのYouTubeチャンネル</a>
+						<a href="https://www.youtube.com/channel/UCw2JBhwHg-YXycBYx6ZI1bQ" target="blank"><img src="img/yt.ico" class="social" width="14" height="14">学情チャンのYouTubeチャンネル</a>
 					</p><br>
 					<a href="https://addons.mozilla.org/ja/firefox/addon/%E5%AD%A6%E6%83%85%E3%83%81%E3%83%A3%E3%83%B3%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E/" target="blank">
 						<img src="img/fx.png">
