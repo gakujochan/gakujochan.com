@@ -40,6 +40,15 @@
 		?>">
 		<meta property="og:description" content="学情チャンは、全国の大学が抱えてる学生さん向けポータルサイトをイメージして生まれたキャラクターだよ!">
 		<meta property="og:image" content="https://gakujochan.com/img/cards.png">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-CZP3CFC252"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-CZP3CFC252');
+		</script>
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/slick.min.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
