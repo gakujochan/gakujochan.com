@@ -1,25 +1,12 @@
-<?php
-	include_once "list.php";
-	$id = $_GET["p"];
-	if (isset($id) == "") {
-		$id = "top";
-	} else {
-		if (!file_exists("page/".$id.".html")) {
-			$id = "top";
-		}
-		$title = $list[$id];
-	}
-	$main = file_get_contents("page/".$id.".html");
-?>
+<?php include_once "system.php"; ?>
 <!DOCTYPE html>
 <html lang="ja">
 	<head>
-
 		<title><?php
 		if (isset($title) == "") {
 			echo "学情チャン 公式ウェブサイト";
 		} else {
-			echo "".$title." - 学情チャン 公式ウェブサイト";
+			echo "" . $title . " - 学情チャン 公式ウェブサイト";
 		}
 		?></title>
 		<meta charset="utf-8">
@@ -110,7 +97,7 @@
 					This website is not affiliated with any university, company, or other institution related to student affairs system (Gakujo system). 
 				</p>
 				<p>
-					(c) 2021 学情チャンプロジェクト all rights reserved.<br>
+					(c) 2021,2022 学情チャンプロジェクト all rights reserved.<br>
 					Website and graphic design : <a href="https://arkw.net/" target="blank">Sora Arakawa</a><br>
 					Maintenance and administration : <a href="https://ghevp.com/" target="blank">ぐゑ</a>
 				</p>
