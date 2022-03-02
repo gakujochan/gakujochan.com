@@ -79,6 +79,15 @@ body {
 	border-bottom: solid 2px rgba(0, 120, 215, 0.3);
 }
 
+.wrapper h3 {
+	margin-top: 24px;
+	margin-bottom: 12px;
+	font-size: 16px;
+	font-weight: bold;
+	color: rgb(0, 99, 177);
+	line-height: 24px;
+}
+
 .wrapper ul {
 	margin: 14px;
 }

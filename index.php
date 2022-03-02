@@ -49,11 +49,10 @@
 			</div>
 			<div class="navbar-right">
 				<ul>
-					<a href="index.php"><li>ホーム</li></a>
 					<a href="index.php?p=reference"><li>資料集</li></a>
+					<a href="index.php?p=song"><li>うた</li></a>
 					<a href="index.php?p=rules"><li>学情チャンとのお約束</li></a>
 					<a href="index.php?p=contest"><li>コンテスト</li></a>
-					
 				</ul>
 			</div>
 		</div>
