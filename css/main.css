@@ -179,7 +179,18 @@ body {
 	padding-right: 5px;
 	vertical-align: middle;
 }
-
+.kabegami p{
+	font-size: 20px;
+}
+.kabegami button{
+	text-align: center;
+	font-size: 20px;
+	width: 180px;
+	height: 4 0px;
+	color: #fafafa;
+	border-radius: 15px;
+	background-color:black
+}
 
 @media screen and ( max-width: 1023px ){
 	.navbar, .navbar-left, .navbar-right, .header, .slider img, .wrapper, .wrapper-columns-left, .wrapper-columns-right, .header-logo {
