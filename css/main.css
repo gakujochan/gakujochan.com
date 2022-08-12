@@ -265,6 +265,10 @@ body {
 		background: linear-gradient(rgb(0, 99, 177), rgb(0, 120, 215));
 		border-bottom: solid 1px rgba(255, 255, 255, 0.7);
 	}
+	.chirashi img{
+		width: 90%;
+		margin-left: 5%;
+	}
 }
 
 @media screen and ( max-width: 499px ){
